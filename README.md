@@ -1,2 +1,2 @@
 # groupfie
-An Application for a Groupfie
+An Application for taking Groupfies
